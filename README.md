@@ -69,7 +69,7 @@ A full-stack **Task Management Application** built using **Django (REST API)** f
    ```bash
    python manage.py runserver
 
-### Frontend Setup
+### Frontend Setup 
 
 1. **Navigate to the Frontend Directory:**:
    ```bash
