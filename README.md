@@ -109,14 +109,3 @@ The API endpoints are managed by Django REST Framework.
 | `/api/tasks/<id>/`        | DELETE | Delete a task             |
 
 
-
-
-
-
-
-
-
-
-
-
-   
